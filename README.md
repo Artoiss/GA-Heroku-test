@@ -1,7 +1,8 @@
 # GA-Heroku-test
 Testing to build react-app as docker container and deploy it to Heroku with Github Actions.
 
-test.
-test.
-test.
-test.
+Figure of the workflow:
+![Pipeline](Pipeline.png)
+
+
+Website link: https://stopwatch-devops.herokuapp.com/
