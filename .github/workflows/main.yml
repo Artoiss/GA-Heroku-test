@@ -3,7 +3,7 @@ name: Release stopwatch
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
